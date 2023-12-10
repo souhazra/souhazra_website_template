@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 #gemspec
-gem 'github-pages'
+gem 'github-pages'                    #Needed since this is a theme for Jekyll
 gem 'jekyll-feed'
 gem 'jekyll-scholar'
 gem 'jekyll-environment-variables'
